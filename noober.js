@@ -7,6 +7,8 @@ async function pageLoaded() {
   
   // 🔥 start here: write code to loop through the rides
   
+  
+
 }
 
 window.addEventListener('DOMContentLoaded', pageLoaded)
